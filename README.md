@@ -17,7 +17,7 @@ This is a simple command-line calculator implemented in JavaScript using the `in
 4. Run the calculator using the following command:
     ```bash
    node index.js
-5. The calculator will prompt you to enter two numbers and select an operation.
+5. The calculator will prompt you to enter two numbers and select an operation.[Addition, Subtraction, Multiplication, Division]
 6. After providing the input, the calculator will display the result in the console with a colored message.
 7. You can continue performing calculations by re-running the program.
 
