@@ -33,6 +33,7 @@ The code is structured to be interactive and user-friendly, allowing the user to
 1. inquirer: For capturing user input.
 2. chalk: For adding colored output to the console.
 ## Author
-<font color="red">Nazneen Akram</font>
+<span style="color:red">Nazneen Akram</span>
+
 
 
