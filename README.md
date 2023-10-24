@@ -23,10 +23,10 @@ This is a simple command-line calculator implemented in JavaScript using the `in
 
 ## Code Structure
 
-The code uses the inquirer library to capture user input, including two numbers and the desired arithmetic operation.
-The chalk library is used to add colored output to the console, making the results more visually appealing.
-A switch statement is used to determine the selected operation and perform the corresponding calculation.
-The result is displayed in the console with a green-colored message.
+The code uses the inquirer library to capture user input, including two numbers and the desired arithmetic operation.</n>
+The chalk library is used to add colored output to the console, making the results more visually appealing.</n>
+A switch statement is used to determine the selected operation and perform the corresponding calculation.</n>
+The result is displayed in the console with a green-colored message.</n>
 The code is structured to be interactive and user-friendly, allowing the user to perform calculations with ease.
 
 ## Dependencies
