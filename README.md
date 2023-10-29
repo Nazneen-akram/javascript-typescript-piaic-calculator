@@ -30,8 +30,8 @@ The result is displayed in the console with a green-colored message.</n>
 The code is structured to be interactive and user-friendly, allowing the user to perform calculations with ease.
 
 ## Dependencies
-1. inquirer: For capturing user input.
-2. chalk: For adding colored output to the console.
+1. `inquirer`: For capturing user input.
+2. `chalk`: For adding colored output to the console.
 ## Author
 <span style="color:red">Nazneen Akram</span>
 
